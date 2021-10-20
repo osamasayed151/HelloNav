@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainFragment">
+    tools:context=".ui.MainFragment">
 
     <TextView
         android:id="@+id/tv_first"
@@ -36,5 +36,14 @@
         android:textSize="30sp"
         android:layout_marginTop="40dp"
         android:gravity="center"/>
+<!--// hello change-->
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:layout_gravity="center"
+        android:text="Chick here"/>
 
 </LinearLayout>

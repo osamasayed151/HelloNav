@@ -20,7 +20,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:navGraph="@navigation/my_graph"
         tools:ignore="FragmentTagUsage" />
-
+  
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/main_bottom_nav"
         android:layout_width="match_parent"
