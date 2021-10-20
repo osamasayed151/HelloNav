@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloNav</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">
+        Word categories include: pets, animals, food, mealtime, colors, activities,
+        opposites, outside and more Touching the words on the pages plays the words,
+    </string>
+</resources>
